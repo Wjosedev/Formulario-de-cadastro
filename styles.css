@@ -1,17 +1,15 @@
 form{
-    background:burlywood;
+    background:rgb(242, 239, 235);
     padding: 5%;
-    border: 2px black;
+    border: 2px solid black;
     width: 500px;
-    
+    border-radius: 30px;
 }
 
 .intro{
     font-family: new roman;
     color: black;
-    border: 2px solid black;
-    border-radius: 15px;
-    border-collapse: separate;
+  
     border-spacing: 50px 30px;
 }
 
@@ -19,6 +17,7 @@ h1{
     text-align: center;
     text-decoration: underline;
     color: blue;
+    stroke: none;
 }
 
 .name1{
@@ -42,14 +41,14 @@ td{
 
 
 .sub{
-    border:3px solid black;
+    border:2px solid black;
     border-radius: 10px;
     margin: 10px ;
 }
 
 .res{
     margin-left:340px;
-    border:3px sold black;
+    border:2px sold black;
     border-radius: 10px;
 }
 
