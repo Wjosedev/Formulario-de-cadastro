@@ -1,0 +1,56 @@
+form{
+    background:burlywood;
+    padding: 5%;
+    border: 2px black;
+    width: 500px;
+    
+}
+
+.intro{
+    font-family: new roman;
+    color: black;
+    border: 2px solid black;
+    border-radius: 15px;
+    border-collapse: separate;
+    border-spacing: 50px 30px;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+
+.name1{
+    text-align: right;
+    text-decoration: underline;
+    font-size: 20px;
+    border-collapse: collapse;
+    
+}
+
+.name2{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+td{
+   border: 2px solid ;
+   text-align: center;
+   border-radius: 5px;
+}
+
+
+.sub{
+    border:3px solid black;
+    border-radius: 10px;
+    margin: 10px ;
+}
+
+.res{
+    margin-left:340px;
+    border:3px sold black;
+    border-radius: 10px;
+}
+
+
